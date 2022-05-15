@@ -1,0 +1,5 @@
+# virtual environment
+venv/
+
+# large data files
+piecemaker/
