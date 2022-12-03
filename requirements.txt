@@ -1,6 +1,1 @@
-fastdtw
-numpy
 opencv-python
-Pillow
-pyqt5
-scipy
